@@ -4,6 +4,8 @@
 
 using namespace std;
 
+
+
 int main() {
     int T; cin >> T;
 
@@ -13,8 +15,8 @@ int main() {
         int M, R, N; cin >> M >> R >> N;
 
         for (int j = 0; j < N; j++) {
-            ;
+
         }
     }
     return 0;
-}
+} 
