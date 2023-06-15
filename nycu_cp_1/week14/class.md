@@ -38,6 +38,7 @@ sparse table: 求出 min(ai, ai+1, ai+2, ..., ai+k)
 * LCA 倍增法
 * convex hull 一題
 * 其他計算幾何: 一題
+* DAG 和 LAG 會考!
 
 
 
